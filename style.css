@@ -17,3 +17,8 @@ nav a {
 #featured-property{
   text-align: center;
 }
+
+figcaption {
+  font-size: -20%;
+  text-align: center;
+}
