@@ -9,6 +9,12 @@ body {
 header {
   align-self: center;
 }
+h1 {
+  align-items: center;
+}
+nav {
+  align-items: center;
+}
 
 figure {
   align-content: center;
