@@ -19,6 +19,6 @@ nav a {
 }
 
 figcaption {
-  font-size: -20%;
+  font-size: smaller;
   text-align: center;
 }
